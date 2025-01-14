@@ -1,2 +1,2 @@
 # Web-Mining
-Complete Code for Web Mining.
+Complete Code for Web Mining with pagination code.
